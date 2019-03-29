@@ -1,0 +1,11 @@
+{
+  "name": "cordova-plugin-share",
+  "version": "1.0.0",
+  "description": "cordova share plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ashoka",
+  "license": "MIT"
+}
